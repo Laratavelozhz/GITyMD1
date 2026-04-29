@@ -7,15 +7,10 @@
  
 
 | Lenguaje | Habilidad |
-
-| :--- | :--- |
-
+| --- | --- |
 | HTML | 8/10 |
-
 | CSS | 7/10 |
-
 | JavaScript | 5/10 |
-
 | Blender/Unity | 7/10 |
 
  
